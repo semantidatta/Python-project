@@ -1,0 +1,8 @@
+REPORT CARD
+Student ID: CSE2203
+Student Name: Swagatam Adak
+Class Roll no. of student: 73
+Marks in Python : 95	Grade in Python : A
+Marks in Physics : 81	Grade in Physics : B
+Percentage of student: 88.0
+Passing Status:PASS

@@ -1,0 +1,3 @@
+Course ID,Course Name,Student ID,Marks Obtained,Student ID-Marks Obtained
+C001,Python,"{'CSE2201': 78, 'CSE2202': 90, 'CSE2203': 95,'CSE2204': 78,'CSE2101': 89}",,
+C002,Physics,"{'CSE2201': 76, 'CSE2202': 79, 'CSE2203': 81, 'CSE2204': 78, 'CSE2101': 75, 'ECE2101': 67, 'ECE2201': 86, 'ECE2202': 82}",,
